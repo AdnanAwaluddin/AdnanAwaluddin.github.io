@@ -14,5 +14,5 @@ function hitung(){
         kategori = "Anda memiliki berat badan berlebihan";
     } else {kategori = "Anda mengalami kegemukan (obesitas)"
     }
-    document.writeln("Kategori : " + kategori)
+    document.write("Kategori : " + kategori)
 }
