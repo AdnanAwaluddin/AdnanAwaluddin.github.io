@@ -4,5 +4,5 @@ function hitung(){
     let usia = document.getElementById("usia-input").value;
     
     let hasil = parseInt(berat)+parseInt(tinggi);
-    document.write("Hasilnya : " + hasil);
+    document.writeln("Hasilnya : " + hasil);
 }
