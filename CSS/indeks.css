@@ -1,0 +1,44 @@
+.h1style{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+.kotak{
+    background-color: aqua;
+    padding : 16px;
+    border-radius: 9px;
+}
+.warnatombolhitung{
+    background-color: blue;
+    color: aliceblue;
+}
+.warnatombolreset{
+    background-color: orangered;
+    color: aliceblue;
+}
+.format{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 37px;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+}
+.sectionstyle{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footerstyle{
+    display: flex;
+    justify-content: center;
+}
+.stylehasil{
+    background-color: khaki;
+    padding: 12px;
+    border-radius: 9px;
+}
+.stylehasil2{
+    display:flex;
+justify-content: center;
+}
